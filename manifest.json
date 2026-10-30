@@ -1,0 +1,13 @@
+{
+  "name": "Notepad ER404",
+  "short_name": "Notepad",
+  "description": "Браузерный текстовой редактор, автор IGOR02022010",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f1014",
+  "theme_color": "#0f1014",
+  "lang": "ru",
+  "icons": [
+    { "src": "pwa.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
